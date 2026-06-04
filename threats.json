@@ -1,0 +1,11 @@
+{
+  "api_endpoints": {
+    "Spoofing": "Attacker spoofs clinician identity.",
+    "Tampering": "X-ray images or metadata modified.",
+    "Repudiation": "Clinician denies submitting X-ray.",
+    "Information Disclosure": "API leaks patient data.",
+    "Denial of Service": "Flooding inference API.",
+    "Elevation of Privilege": "Misconfig allows admin access."
+  }
+}
+

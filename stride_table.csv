@@ -1,0 +1,8 @@
+Component,Threat,Category
+API,Spoofing,Spoofing
+API,Tampering,Tampering
+API,Repudiation,Repudiation
+API,Information Disclosure,Information Disclosure
+API,Denial of Service,Denial of Service
+API,Elevation of Privilege,Elevation of Privilege
+

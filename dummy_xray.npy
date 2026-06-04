@@ -1,0 +1,3 @@
+import numpy as np
+np.save("dummy_xray.npy", np.zeros((128,128)))
+
