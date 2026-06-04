@@ -1,35 +1,39 @@
-Module 2 — Creating Security Testcases for AI Systems
-This module contains my reconstructed and expanded version of Module 2 from the Coursera course:
+5. LAB README — Design_Adversarial_TestSuite_MediScans_Diagnostic_AI
+Location:
+Creating_Sec_Testcases_for_AISystems/Design_Adversarial_TestSuite_MediScans_Diagnostic_AI/README.md
 
-Secure AI Threat Model & Test Endpoints — Module 2: Creating Security Testcases for AI Systems
+MediScans Diagnostic AI — Adversarial Test Suite
+This folder contains the reconstructed adversarial test suite for the MediScans Diagnostic AI system from Module 2 of the Coursera course:
 
-The module focuses on designing adversarial testcases for a fictional medical imaging AI system (“MediScans Diagnostic AI”).
+Secure AI Threat Model & Test Endpoints
 
-The original lab provided partial scan outputs and incomplete files. I rebuilt the entire test suite using the assignment prompts and scan results.
+The original lab provided partial outputs. I rebuilt the missing components and expanded the technical depth.
 
-Folder Structure
-Code
-Creating_Sec_Testcases_for_AISystems/
-└── Design_Adversarial_TestSuite_MediScans_Diagnostic_AI/
-    ├── data/
-    ├── notebooks/
-    ├── src/
-    └── README.md
-Key Components
+Contents
 📁 data/
 Synthetic X‑ray images and sample inputs.
 
 📁 notebooks/
-xray_threat_model.ipynb — reconstructed threat model and testcase design notebook.
+xray_threat_model.ipynb — full threat model and testcase design walkthrough.
 
 📁 src/
-Includes:
+architecture_diagram.txt
 
-STRIDE table
+stride_table.csv
 
-Architecture diagram
+threats.json
 
-Threat definitions
+Supporting documentation
 
-📄 README.md
-Lab‑level documentation.
+What Was Recreated
+Missing STRIDE table
+
+Missing architecture diagram
+
+Missing threat enumeration
+
+Missing adversarial testcases
+
+Missing notebook narrative
+
+This folder now contains a complete adversarial evaluation workflow for a medical imaging AI system.
